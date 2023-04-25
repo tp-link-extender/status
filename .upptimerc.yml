@@ -29,7 +29,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: [Mercury](https://banland.xyz) 2022-2023. This page is [open source]($REPO).
+  footer: \[Mercury](https://banland.xyz) 2022-2023. This page is [open source]($REPO).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
