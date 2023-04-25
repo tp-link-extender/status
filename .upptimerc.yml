@@ -13,6 +13,11 @@ sites:
   - name: API
     url: https://api.banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
+  - name: Asset Delivery
+    url: https://banland.xyz/asset/
+    logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
+    expectedStatusCodes:
+      - 400
 
 assignees:
   - Heliodex
