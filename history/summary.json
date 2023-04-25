@@ -18,21 +18,41 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Client",
+    "name": "Client Setup",
     "url": "https://setup.banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/setup.banland.xyz.ico",
-    "slug": "client",
+    "slug": "client-setup",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 834,
-    "timeWeek": 834,
-    "timeMonth": 834,
-    "timeYear": 834,
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Client Settings",
+    "url": "https://clientsettings.banland.xyz/",
+    "icon": "https://icons.duckduckgo.com/ip3/clientsettings.banland.xyz.ico",
+    "slug": "client-settings",
+    "status": "down",
+    "uptime": "31.05%",
+    "uptimeDay": "31.05%",
+    "uptimeWeek": "31.05%",
+    "uptimeMonth": "31.05%",
+    "uptimeYear": "31.05%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-04-25": 0
+    }
   }
 ]
