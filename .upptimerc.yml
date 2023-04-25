@@ -1,10 +1,12 @@
 # Change these first
 owner: tp-link-extender # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: Heliodex
 
 sites:
   - name: Mercury
     url: https://banland.xyz/
+    logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
 
 assignees:
   - Heliodex
@@ -15,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.banland.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg/
+  logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   name: Mercury
   introTitle: "Mercury Status"
   navbar:
@@ -25,6 +27,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: [Mercury](https://banland.xyz) 2022-2023. This page is [open source]($REPO).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
