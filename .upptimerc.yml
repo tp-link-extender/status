@@ -10,8 +10,8 @@ sites:
   - name: Client Setup
     url: https://setup.banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
-  - name: Client Settings
-    url: https://clientsettings.banland.xyz/
+  - name: API
+    url: https://api.banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
 
 assignees:
