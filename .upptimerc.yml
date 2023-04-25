@@ -7,8 +7,11 @@ sites:
   - name: Mercury
     url: https://banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
-  - name: Client
+  - name: Client Setup
     url: https://setup.banland.xyz/
+    logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
+  - name: Client Settings
+    url: https://clientsettings.banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
 
 assignees:
