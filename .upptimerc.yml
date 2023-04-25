@@ -7,6 +7,9 @@ sites:
   - name: Mercury
     url: https://banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
+  - name: Client
+    url: https://banland.xyz/
+    logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
 
 assignees:
   - Heliodex
@@ -29,7 +32,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: \[Mercury](https://banland.xyz) 2022-2023. This page is [open source]($REPO).
+  footer: [Mercury](https://banland.xyz) 2022-2023. This page is [open source]($REPO).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
