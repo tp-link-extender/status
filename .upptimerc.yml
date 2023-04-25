@@ -8,7 +8,7 @@ sites:
     url: https://banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: Client
-    url: https://banland.xyz/
+    url: https://setup.banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
 
 assignees:
