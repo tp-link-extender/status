@@ -4,9 +4,6 @@ repo: status # The name of this repository
 user-agent: Heliodex
 
 sites:
-  - name: Mercuryew3rfwe
-    url: https://banlandqw3rwfw3423.xyz/
-    logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: Mercury
     url: https://banland.xyz/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
