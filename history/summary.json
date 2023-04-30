@@ -1,30 +1,5 @@
 [
   {
-    "name": "Mercuryew3rfwe",
-    "url": "https://banlandqw3rwfw3423.xyz/",
-    "icon": "https://icons.duckduckgo.com/ip3/banlandqw3rwfw3423.xyz.ico",
-    "slug": "mercuryew3rfwe",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-04-30": 94,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440,
-      "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 439
-    }
-  },
-  {
     "name": "Mercury",
     "url": "https://banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/banland.xyz.ico",
@@ -35,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 545,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "time": 614,
+    "timeDay": 515,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -53,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 536,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "time": 678,
+    "timeDay": 533,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -71,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 451,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 570,
+    "timeDay": 472,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 121,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 147,
+    "timeDay": 120,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   }
 ]
