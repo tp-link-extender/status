@@ -4,19 +4,19 @@
     "url": "https://banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/banland.xyz.ico",
     "slug": "mercury",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 755,
-    "timeWeek": 670,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 621,
+    "timeDay": 672,
+    "timeWeek": 652,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {
-      "2023-05-07": 0
+      "2023-05-07": 8
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/api.banland.xyz.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 678,
-    "timeWeek": 645,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 593,
+    "timeDay": 615,
+    "timeWeek": 628,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-05-07": 0
+      "2023-05-07": 8
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://banland.xyz/asset/",
     "icon": "https://icons.duckduckgo.com/ip3/banland.xyz.ico",
     "slug": "asset-delivery",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 174,
-    "timeWeek": 160,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 149,
+    "timeDay": 158,
+    "timeWeek": 156,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-05-07": 0
+      "2023-05-07": 8
     }
   }
 ]
