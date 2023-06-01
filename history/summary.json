@@ -5,45 +5,49 @@
     "icon": "https://icons.duckduckgo.com/ip3/banland.xyz.ico",
     "slug": "mercury",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 607,
     "timeDay": 704,
     "timeWeek": 595,
     "timeMonth": 605,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 5
+    }
   },
   {
     "name": "Client Setup",
     "url": "https://setup.banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/setup.banland.xyz.ico",
     "slug": "client-setup",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 692,
     "timeDay": 835,
     "timeWeek": 696,
     "timeMonth": 697,
     "timeYear": 692,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 3
+    }
   },
   {
     "name": "API",
     "url": "https://api.banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/api.banland.xyz.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
@@ -51,14 +55,16 @@
     "timeWeek": 573,
     "timeMonth": 574,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 2
+    }
   },
   {
     "name": "Asset Delivery",
     "url": "https://banland.xyz/asset/",
     "icon": "https://icons.duckduckgo.com/ip3/banland.xyz.ico",
     "slug": "asset-delivery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 139,
     "timeMonth": 140,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   }
 ]
