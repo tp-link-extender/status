@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/banland.xyz.ico",
     "slug": "mercury",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 607,
-    "timeDay": 704,
-    "timeWeek": 595,
-    "timeMonth": 605,
-    "timeYear": 607,
+    "uptime": "99.91%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.91%",
+    "time": 606,
+    "timeDay": 632,
+    "timeWeek": 590,
+    "timeMonth": 604,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-06-01": 5
+      "2023-06-01": 50
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://setup.banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/setup.banland.xyz.ico",
     "slug": "client-setup",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 692,
-    "timeDay": 835,
-    "timeWeek": 696,
-    "timeMonth": 697,
-    "timeYear": 692,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.91%",
+    "time": 689,
+    "timeDay": 694,
+    "timeWeek": 678,
+    "timeMonth": 692,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-06-01": 3
+      "2023-06-01": 49
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.banland.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/api.banland.xyz.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 670,
-    "timeWeek": 573,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.91%",
+    "time": 571,
+    "timeDay": 562,
+    "timeWeek": 558,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-06-01": 2
+      "2023-06-01": 47
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://banland.xyz/asset/",
     "icon": "https://icons.duckduckgo.com/ip3/banland.xyz.ico",
     "slug": "asset-delivery",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 141,
-    "timeDay": 170,
-    "timeWeek": 139,
-    "timeMonth": 140,
+    "timeDay": 149,
+    "timeWeek": 138,
+    "timeMonth": 139,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-06-01": 0
+      "2023-06-01": 46
     }
   }
 ]
