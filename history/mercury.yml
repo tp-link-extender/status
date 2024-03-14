@@ -1,7 +1,7 @@
 url: https://banland.xyz/
-status: up
-code: 200
-responseTime: 524
-lastUpdated: 2024-03-13T23:13:11.707Z
+status: down
+code: 500
+responseTime: 503
+lastUpdated: 2024-03-14T01:36:28.298Z
 startTime: 2023-04-25T00:57:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
