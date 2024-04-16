@@ -5,16 +5,16 @@ user-agent: Heliodex
 
 sites:
   - name: Mercury
-    url: https://banland.xyz/
+    url: https://mercury2.com/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: Client Setup
-    url: https://setup.banland.xyz/
+    url: https://setup.mercury2.com/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: API
-    url: https://api.banland.xyz/
+    url: https://api.mercury2.com/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: Asset Delivery
-    url: https://banland.xyz/asset/
+    url: https://mercury2.com/asset/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
     expectedStatusCodes:
       - 400
@@ -26,21 +26,21 @@ status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.banland.xyz
+  cname: status.mercury2.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   name: Mercury
   introTitle: "Mercury Status"
   navbar:
     - title: Mercury
-      href: https://banland.xyz/
+      href: https://mercury2.com/
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: "[Mercury](https://banland.xyz) 2021-2024. This page is [open source]($REPO)."
+  footer: "[Mercury](https://mercury2.com) 2021-2024. This page is [open source]($REPO)."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
