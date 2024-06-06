@@ -10,10 +10,10 @@
     "uptimeWeek": "90.05%",
     "uptimeMonth": "95.33%",
     "uptimeYear": "96.36%",
-    "time": 1918,
-    "timeDay": 7465,
-    "timeWeek": 4984,
-    "timeMonth": 3955,
+    "time": 1916,
+    "timeDay": 3510,
+    "timeWeek": 3523,
+    "timeMonth": 3956,
     "timeYear": 2055,
     "dailyMinutesDown": {
       "2024-06-03": 230,
@@ -63,8 +63,7 @@
       "2023-08-16": 251,
       "2023-08-11": 51,
       "2023-07-17": 37,
-      "2023-06-20": 646,
-      "2023-06-07": 52
+      "2023-06-20": 646
     }
   },
   {
@@ -73,18 +72,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/setup.mercury2.com.ico",
     "slug": "client-setup",
     "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.58%",
-    "time": 2340,
-    "timeDay": 9469,
-    "timeWeek": 4015,
-    "timeMonth": 4973,
+    "uptime": "97.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.59%",
+    "time": 2337,
+    "timeDay": 4242,
+    "timeWeek": 3472,
+    "timeMonth": 4971,
     "timeYear": 2506,
     "dailyMinutesDown": {
-      "2024-06-05": 6,
       "2024-06-03": 170,
       "2024-06-02": 772,
       "2024-05-21": 20,
@@ -116,8 +114,7 @@
       "2023-08-16": 251,
       "2023-08-11": 50,
       "2023-07-17": 35,
-      "2023-06-20": 609,
-      "2023-06-07": 51
+      "2023-06-20": 609
     }
   },
   {
@@ -131,10 +128,10 @@
     "uptimeWeek": "90.07%",
     "uptimeMonth": "95.26%",
     "uptimeYear": "96.48%",
-    "time": 1737,
-    "timeDay": 10503,
-    "timeWeek": 3969,
-    "timeMonth": 4754,
+    "time": 1735,
+    "timeDay": 1618,
+    "timeWeek": 3443,
+    "timeMonth": 4757,
     "timeYear": 1855,
     "dailyMinutesDown": {
       "2024-06-03": 229,
@@ -182,8 +179,7 @@
       "2023-08-16": 251,
       "2023-08-11": 49,
       "2023-07-17": 34,
-      "2023-06-20": 646,
-      "2023-06-07": 45
+      "2023-06-20": 646
     }
   },
   {
@@ -192,15 +188,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mercury2.com.ico",
     "slug": "asset-delivery",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.27%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "97.46%",
-    "time": 819,
-    "timeDay": 1770,
-    "timeWeek": 390,
-    "timeMonth": 978,
+    "time": 818,
+    "timeDay": 208,
+    "timeWeek": 319,
+    "timeMonth": 979,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2024-06-03": 209,
@@ -239,8 +235,7 @@
       "2023-08-16": 250,
       "2023-08-11": 48,
       "2023-07-17": 32,
-      "2023-06-20": 609,
-      "2023-06-07": 44
+      "2023-06-20": 609
     }
   }
 ]
