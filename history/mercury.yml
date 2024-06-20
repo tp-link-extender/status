@@ -1,7 +1,7 @@
 url: https://mercury2.com/
-status: up
-code: 200
-responseTime: 434
-lastUpdated: 2024-06-19T23:15:01.941Z
+status: down
+code: 500
+responseTime: 429
+lastUpdated: 2024-06-20T05:56:19.037Z
 startTime: 2023-04-25T00:57:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
