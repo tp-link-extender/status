@@ -1,7 +1,7 @@
 url: https://api.mercury2.com/
-status: down
-code: 500
-responseTime: 376
-lastUpdated: 2024-06-21T02:06:38.361Z
+status: up
+code: 200
+responseTime: 336
+lastUpdated: 2024-06-21T02:36:25.219Z
 startTime: 2023-04-25T16:34:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
