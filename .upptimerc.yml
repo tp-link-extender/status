@@ -10,9 +10,6 @@ sites:
   - name: Client setup
     url: https://setup.mercs.dev
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
-  - name: API
-    url: https://api.mercs.dev
-    logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: Orbiter
     url: https://gs.mercs.dev
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
@@ -30,7 +27,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   name: Mercury
-  introTitle: "Mercury Status"
+  introTitle: "Mercury status"
   navbar:
     - title: Mercury
       href: https://mercs.dev
