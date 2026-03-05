@@ -55,15 +55,15 @@
     "url": "https://gs.mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
-    "status": "up",
-    "uptime": "61.57%",
-    "uptimeDay": "67.61%",
-    "uptimeWeek": "85.95%",
+    "status": "down",
+    "uptime": "61.71%",
+    "uptimeDay": "75.86%",
+    "uptimeWeek": "86.43%",
     "uptimeMonth": "66.15%",
-    "uptimeYear": "61.57%",
+    "uptimeYear": "61.71%",
     "time": 489,
-    "timeDay": 423,
-    "timeWeek": 425,
+    "timeDay": 406,
+    "timeWeek": 429,
     "timeMonth": 457,
     "timeYear": 489,
     "dailyMinutesDown": {
@@ -153,8 +153,7 @@
       "2025-12-08": 847,
       "2025-12-07": 499,
       "2025-12-06": 160,
-      "2025-12-05": 273,
-      "2025-12-04": 107
+      "2025-12-05": 273
     }
   }
 ]
