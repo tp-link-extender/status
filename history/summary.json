@@ -4,13 +4,13 @@
     "url": "https://mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mercs.dev.ico",
     "slug": "mercury",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.49%",
-    "time": 1331,
+    "time": 1333,
     "timeDay": 613,
     "timeWeek": 463,
     "timeMonth": 480,
@@ -26,7 +26,8 @@
       "2026-03-07": 18,
       "2026-03-22": 94,
       "2026-06-12": 79,
-      "2026-07-31": 229
+      "2026-07-31": 229,
+      "2026-09-19": 10
     }
   },
   {
@@ -34,13 +35,13 @@
     "url": "https://setup.mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/setup.mercs.dev.ico",
     "slug": "client-setup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.83%",
-    "time": 1443,
+    "time": 1445,
     "timeDay": 810,
     "timeWeek": 662,
     "timeMonth": 715,
@@ -55,7 +56,8 @@
       "2026-03-07": 18,
       "2026-03-22": 94,
       "2026-06-12": 74,
-      "2026-07-31": 225
+      "2026-07-31": 225,
+      "2026-09-19": 5
     }
   },
   {
@@ -64,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
     "status": "down",
-    "uptime": "84.93%",
-    "uptimeDay": "76.71%",
-    "uptimeWeek": "96.67%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "84.93%",
+    "uptime": "84.82%",
+    "uptimeDay": "37.80%",
+    "uptimeWeek": "91.11%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "84.82%",
     "time": 510,
     "timeDay": 0,
     "timeWeek": 368,
@@ -168,7 +170,7 @@
       "2026-08-07": 1251,
       "2026-08-06": 1440,
       "2026-08-05": 838,
-      "2026-09-19": 252,
+      "2026-09-19": 812,
       "2026-09-18": 84
     }
   }
