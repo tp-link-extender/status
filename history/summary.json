@@ -4,15 +4,15 @@
     "url": "https://mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mercs.dev.ico",
     "slug": "mercury",
-    "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.49%",
+    "status": "up",
+    "uptime": "98.74%",
+    "uptimeDay": "86.69%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.46%",
     "time": 1333,
-    "timeDay": 613,
-    "timeWeek": 463,
+    "timeDay": 546,
+    "timeWeek": 465,
     "timeMonth": 480,
     "timeYear": 716,
     "dailyMinutesDown": {
@@ -27,7 +27,7 @@
       "2026-03-22": 94,
       "2026-06-12": 79,
       "2026-07-31": 229,
-      "2026-09-19": 10
+      "2026-09-19": 192
     }
   },
   {
@@ -35,15 +35,15 @@
     "url": "https://setup.mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/setup.mercs.dev.ico",
     "slug": "client-setup",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.83%",
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "87.02%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.79%",
     "time": 1445,
-    "timeDay": 810,
-    "timeWeek": 662,
+    "timeDay": 768,
+    "timeWeek": 670,
     "timeMonth": 715,
     "timeYear": 653,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
       "2026-03-22": 94,
       "2026-06-12": 74,
       "2026-07-31": 225,
-      "2026-09-19": 5
+      "2026-09-19": 187
     }
   },
   {
@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
     "status": "down",
-    "uptime": "84.82%",
-    "uptimeDay": "37.80%",
-    "uptimeWeek": "91.11%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "84.82%",
+    "uptime": "84.78%",
+    "uptimeDay": "24.82%",
+    "uptimeWeek": "89.26%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "84.78%",
     "time": 510,
     "timeDay": 0,
     "timeWeek": 368,
@@ -170,7 +170,7 @@
       "2026-08-07": 1251,
       "2026-08-06": 1440,
       "2026-08-05": 838,
-      "2026-09-19": 812,
+      "2026-09-19": 999,
       "2026-09-18": 84
     }
   }
