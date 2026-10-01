@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
     "status": "down",
-    "uptime": "83.71%",
+    "uptime": "83.68%",
     "uptimeDay": "11.80%",
-    "uptimeWeek": "80.13%",
-    "uptimeMonth": "79.03%",
-    "uptimeYear": "83.71%",
+    "uptimeWeek": "78.46%",
+    "uptimeMonth": "78.65%",
+    "uptimeYear": "83.68%",
     "time": 558,
     "timeDay": 297,
     "timeWeek": 3205,
@@ -176,7 +176,7 @@
       "2026-09-18": 84,
       "2026-09-30": 1424,
       "2026-09-29": 578,
-      "2026-10-01": 0
+      "2026-10-01": 169
     }
   }
 ]
