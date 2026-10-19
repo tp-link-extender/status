@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "99.22%",
-    "time": 1310,
-    "timeDay": 569,
-    "timeWeek": 475,
-    "timeMonth": 450,
-    "timeYear": 692,
+    "time": 1311,
+    "timeDay": 565,
+    "timeWeek": 494,
+    "timeMonth": 449,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2025-12-06": 19,
       "2025-12-29": 115,
@@ -43,10 +43,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.79%",
-    "time": 1420,
-    "timeDay": 737,
-    "timeWeek": 598,
-    "timeMonth": 607,
+    "time": 1421,
+    "timeDay": 710,
+    "timeWeek": 645,
+    "timeMonth": 604,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2025-11-27": 169,
@@ -68,14 +68,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
     "status": "down",
-    "uptime": "84.51%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.10%",
-    "uptimeYear": "84.51%",
+    "uptime": "84.35%",
+    "uptimeDay": "38.11%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "76.84%",
+    "uptimeYear": "84.35%",
     "time": 551,
-    "timeDay": 523,
-    "timeWeek": 406,
+    "timeDay": 0,
+    "timeWeek": 426,
     "timeMonth": 1150,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -178,7 +178,8 @@
       "2026-09-30": 1424,
       "2026-09-29": 578,
       "2026-10-01": 408,
-      "2026-10-18": 0
+      "2026-10-19": 253,
+      "2026-10-18": 638
     }
   }
 ]
