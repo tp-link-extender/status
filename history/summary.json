@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mercs.dev.ico",
     "slug": "mercury",
     "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "99.22%",
+    "uptime": "98.69%",
+    "uptimeDay": "87.98%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "99.19%",
     "time": 1313,
     "timeDay": 0,
-    "timeWeek": 494,
+    "timeWeek": 495,
     "timeMonth": 447,
     "timeYear": 691,
     "dailyMinutesDown": {
@@ -30,7 +30,7 @@
       "2026-09-19": 192,
       "2026-10-03": 1156,
       "2026-10-02": 90,
-      "2026-10-20": 10
+      "2026-10-20": 173
     }
   },
   {
@@ -39,11 +39,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/setup.mercs.dev.ico",
     "slug": "client-setup",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.22%",
+    "uptimeDay": "88.32%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.76%",
     "time": 1423,
     "timeDay": 0,
     "timeWeek": 645,
@@ -61,7 +61,7 @@
       "2026-06-12": 74,
       "2026-07-31": 225,
       "2026-09-19": 187,
-      "2026-10-20": 5
+      "2026-10-20": 168
     }
   },
   {
@@ -70,14 +70,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
     "status": "down",
-    "uptime": "84.12%",
+    "uptime": "84.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.37%",
+    "uptimeWeek": "76.75%",
     "uptimeMonth": "76.84%",
-    "uptimeYear": "84.12%",
+    "uptimeYear": "84.09%",
     "time": 551,
     "timeDay": 0,
-    "timeWeek": 426,
+    "timeWeek": 430,
     "timeMonth": 1150,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -180,7 +180,7 @@
       "2026-09-30": 1424,
       "2026-09-29": 578,
       "2026-10-01": 408,
-      "2026-10-20": 102,
+      "2026-10-20": 265,
       "2026-10-19": 1440,
       "2026-10-18": 638
     }
