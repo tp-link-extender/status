@@ -40,13 +40,13 @@
     "url": "https://setup.mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/setup.mercs.dev.ico",
     "slug": "client-setup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "86.95%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "99.54%",
-    "time": 1425,
+    "time": 1392,
     "timeDay": 535,
     "timeWeek": 611,
     "timeMonth": 585,
@@ -65,7 +65,8 @@
       "2026-09-19": 187,
       "2026-10-20": 944,
       "2026-10-22": 9,
-      "2026-10-21": 363
+      "2026-10-21": 363,
+      "2026-10-25": 0
     }
   },
   {
@@ -73,19 +74,19 @@
     "url": "https://gs.mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
-    "status": "up",
-    "uptime": "84.09%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "84.22%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "65.42%",
     "uptimeMonth": "86.54%",
-    "uptimeYear": "84.09%",
+    "uptimeYear": "84.22%",
     "time": 549,
     "timeDay": 437,
     "timeWeek": 398,
     "timeMonth": 1066,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-12-11": 1012,
+      "2025-12-11": 438,
       "2025-12-12": 251,
       "2025-12-13": 485,
       "2025-12-14": 830,
@@ -186,7 +187,8 @@
       "2026-10-01": 408,
       "2026-10-20": 1408,
       "2026-10-19": 1440,
-      "2026-10-18": 638
+      "2026-10-18": 638,
+      "2026-10-25": 0
     }
   }
 ]
