@@ -40,17 +40,17 @@
     "url": "https://setup.mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/setup.mercs.dev.ico",
     "slug": "client-setup",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "86.95%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "99.54%",
-    "time": 1392,
-    "timeDay": 535,
-    "timeWeek": 611,
-    "timeMonth": 585,
-    "timeYear": 647,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "77.03%",
+    "uptimeWeek": "83.67%",
+    "uptimeMonth": "96.24%",
+    "uptimeYear": "99.48%",
+    "time": 1393,
+    "timeDay": 637,
+    "timeWeek": 625,
+    "timeMonth": 590,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2025-11-27": 169,
       "2025-12-06": 19,
@@ -66,7 +66,7 @@
       "2026-10-20": 944,
       "2026-10-22": 9,
       "2026-10-21": 363,
-      "2026-10-25": 0
+      "2026-10-25": 331
     }
   },
   {
@@ -74,16 +74,16 @@
     "url": "https://gs.mercs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gs.mercs.dev.ico",
     "slug": "orbiter",
-    "status": "down",
-    "uptime": "84.22%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "65.42%",
-    "uptimeMonth": "86.54%",
-    "uptimeYear": "84.22%",
+    "status": "up",
+    "uptime": "84.16%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "62.14%",
+    "uptimeMonth": "85.79%",
+    "uptimeYear": "84.16%",
     "time": 549,
-    "timeDay": 437,
-    "timeWeek": 398,
-    "timeMonth": 1066,
+    "timeDay": 456,
+    "timeWeek": 409,
+    "timeMonth": 1047,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-12-11": 438,
@@ -188,7 +188,7 @@
       "2026-10-20": 1408,
       "2026-10-19": 1440,
       "2026-10-18": 638,
-      "2026-10-25": 0
+      "2026-10-25": 330
     }
   }
 ]
